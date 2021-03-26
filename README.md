@@ -2,6 +2,6 @@
 
 Use the local server MAMP & json-server
 
-HTML & CSS & JS & webpack
+Technologies: JS, HTML5, CCS3, webpack, json-server
 
 https://sergii-b.github.io/delivery/
